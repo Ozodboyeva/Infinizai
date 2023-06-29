@@ -1,0 +1,33 @@
+.dark * {
+  background-color: var(--firstbackground-color);
+}
+.dark #navbar-responsive {
+  background-color: var(--firstbackground-color);
+}
+.dark #home {
+  background-color: var(--firstbackground-color);
+}
+.dark #about {
+  background-color: var(--firstbackground-color);
+}
+.dark #team {
+  background-image: none;
+  background-color: var(--firstbackground-color);
+}
+.dark .team-card {
+  background-color: var(--firstbackground-color);
+}
+.dark .images {
+  display: none;
+}
+.dark #contact {
+  background-image: none;
+  background-color: var(--firstbackground-color);
+}
+.dark .contact-header,
+.contact-text {
+  color: #fff;
+}
+.dark #dark-light {
+  background-color: var(--firstbackground-color);
+}
